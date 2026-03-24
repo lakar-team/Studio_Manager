@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Gemini/Antigravity artifacts
+.gemini/
+brain/
+implementation_plan.md
+walkthrough.md
+task.md
+
+# Logs
+*.log
+
+# Dependencies
+node_modules/
+package-lock.json

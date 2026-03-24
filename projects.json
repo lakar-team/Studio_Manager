@@ -1,9 +1,0 @@
-{
-    "aibo": {
-        "name": "Project AIBO (Local)",
-        "path": "../Project_AIBO",
-        "description": "Localhost Development Environment",
-        "icon": "bot",
-        "color": "cyan"
-    }
-}
