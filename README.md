@@ -2,7 +2,6 @@
 
 The next evolution of your project control center. A premium, ultra-lightweight Node.js engine for managing agentic workflows, tracking code evolution with a "Time Machine" interface, and providing high-fidelity context for AI Agents.
 
-![License](https://img.shields.io/badge/License-MIT-emerald)
 ![Version](https://img.shields.io/badge/Version-3.0.0-emerald)
 ![Node.js](https://img.shields.io/badge/Node.js-18+-green)
 
